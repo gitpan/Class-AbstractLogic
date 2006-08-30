@@ -1,0 +1,20 @@
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/Class/AbstractLogic.pm
+lib/Class/AbstractLogic/Action.pm
+lib/Class/AbstractLogic/Base.pm
+lib/Class/AbstractLogic/Manager.pm
+lib/Class/AbstractLogic/Result.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+t/00-basic.t
+t/01-logics.t
+t/lib/Foo.pm
+t/lib/TestLogic.pm
